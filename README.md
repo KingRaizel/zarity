@@ -1,4 +1,4 @@
-# black_coffer
+# Zarity Project
 
 A new Flutter project.
 
